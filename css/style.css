@@ -23,24 +23,28 @@ hr {
     width: 30%;
     float: left;
     margin-right: 40px;
+  box-shadow: 0 2px 5px #ccc;
 }
 
 .event-img {
     width: 30%;
     float:right;
     margin-left: 40px;
+  box-shadow: 0 2px 5px #ccc;
 }
 
 .video-img {
     width: 30%;
     float: left;
     margin-right: 40px;
+  box-shadow: 0 2px 5px #ccc;
 }
 
 .drone-img {
     width: 30%;
     float:right;
     margin-left: 40px;
+  box-shadow: 0 2px 5px #ccc;
 }
 
 
